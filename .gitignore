@@ -1,0 +1,5 @@
+build/
+project.egg-info/
+.DS_STORE
+.vscode/
+__pycache__/
